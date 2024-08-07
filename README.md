@@ -65,6 +65,7 @@ Contributions are welcome!
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
+
 Gradio for the user-friendly interface
+
 scikit-learn for the machine learning tools and algorithms
-Kaggle for providing the SMS Spam Collection Dataset
